@@ -56,6 +56,6 @@ yarn
 yarn dev
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:3000/` (CASO DESEJE TROCAR, ALTERE-A EM `server.ts`
+Feito isso, abra o seu navegador e acesse `http://localhost:3000/` (caso deseje troca-la, altere ela em `server.ts`)
 
 ---
