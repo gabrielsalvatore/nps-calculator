@@ -51,3 +51,6 @@ yarn dev
 Feito isso, abra o seu navegador e acesse `http://localhost:3000/` (caso deseje troca-la, altere ela em `server.ts`)
 
 ---
+🧑 Me conheça melhor
+-   Acesse meu canal do [YouTube](https://www.youtube.com/channel/UCVkxzvBQds33CM9DYq4Uwbw)
+-   Me siga no [Instagram](https://instagram.com/gabrielsalvatoreee) pessoal ou o do meu canal [Instagram](https://instagram.com/coisasbostas3)
