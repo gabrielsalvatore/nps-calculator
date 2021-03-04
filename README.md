@@ -1,6 +1,6 @@
 #nlw04
 <p align="center">
-  <img src="https://ik.imagekit.io/uafxvegvbr1/nlwgit_1vk21zl1V0.png" width="150" >
+  <img src="https://ik.imagekit.io/uafxvegvbr1/nlwgithub_IwfcyXWsk.png" width="150" >
 </p>
 
 <div align="center">
