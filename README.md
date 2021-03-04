@@ -47,13 +47,13 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```
 # Instale o Yarn
-`npm install -g yarn`
+npm install -g yarn
 
 # Baixar as dependências
-`yarn`
+yarn
 
 # Executar o servidor
-`yarn dev`
+yarn dev
 ```
 
 Feito isso, abra o seu navegador e acesse `http://localhost:3000/` (CASO DESEJE TROCAR, ALTERE-A EM `server.ts`
