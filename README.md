@@ -17,9 +17,9 @@
 
 ## 📖 Sobre 
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 21 a 26 de Fevereiro de 2021.
+O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
 
-Na trilha de NodeJs (Backend), foi desenvolvido uma API de NPS (Net Promoter Score), com sistema de cadastramento de usuários, cadastramento de pesquisas, envio de email com pesquisa e cálculo do NPS.
+Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
 
 --- 
 
