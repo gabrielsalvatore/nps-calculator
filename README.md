@@ -1,56 +1,54 @@
-#nlw04
+<h1 align="center">NPS-NLW</h1>
+
 <p align="center">
-  <img src="https://ik.imagekit.io/uafxvegvbr1/nlwgithub_IwfcyXWsk.png" width="150" >
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-diagram">Diagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run">How to run</a>
 </p>
 
-<div align="center">
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+</p>
 
-</div>
+<br>
 
-## 📋 Índice
+## ❓ About
 
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
-- [Preview](#-Preview)
+NPS-NLW is an application that consists of calculating the company's NPS. In it we make the registration of users, registration of surveys, sending e-mail for users to respond as satisfaction surveys and with this we can perform the calculation of the NPS.
 
+This project was developed during the NodeJS trail, in the fourth edition of NLW. We learned concepts about what an API is, how to start a project using Typescript and Express for route management, TypeORM for data manipulation, automated tests and sending e-mail.
 
-## 📖 Sobre 
+## ✨ Technologies
 
-O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
+This project was developed with the following technologies:
 
-Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
+- [TypeScript](https://www.typescriptlang.org/)
+- [Ethereal-Email](https://ethereal.email/)
+- [TypeORM](https://typeorm.io/#/)
+- [Express](https://expressjs.com/pt-br/)
+- [Jest](https://jestjs.io/)
+- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 
---- 
+## 🔶 Diagram
 
-## 🚀 Tecnologias utilizadas
+<img src=".github/diagrama.png" alt="Aplication Diagram" />
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
-
-- Express
-- TypeORM
-- TypeScript
-- Jest 
-- Nodemailer 
-
---- 
-
-## ⌨ Como executar o projeto
+## 🚀 How to run
 
 ```
-# Instale o Yarn
-npm install -g yarn
+# Clone this repository
+$ https://github.com/TiagooAndrade/NPS-NLW.git
 
-# Baixar as dependências
-yarn
+# Install dependencies
+$ yarn install
 
-# Executar o servidor
-yarn dev
+# Start the project
+$ yarn dev
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:3000/` (caso deseje troca-la, altere ela em `server.ts`)
+The application can be accessed at [`localhost:3333`](http://localhost:3333).
 
 ---
-🧑 Me conheça melhor
--   Acesse meu canal do [YouTube](https://www.youtube.com/channel/UCVkxzvBQds33CM9DYq4Uwbw)
--   Me siga no [Instagram](https://instagram.com/gabrielsalvatoreee) pessoal ou o do meu canal [Instagram](https://instagram.com/coisasbostas3)
+
+Made with 💚 by [Tiago Andrade](https://github.com/tiagooandrade)
